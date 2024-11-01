@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt1bGIzdWRoODd3OXRucndhMmlhY292cTJucjViNmZycHp2cG5lbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dEvfJaOEzxl9AUSzHP/giphy.gif" width="200"/>
+</div>
 <!--
 **sholikul92/sholikul92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
